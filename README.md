@@ -30,6 +30,8 @@ Click on apply filters
 
 For searching type the text in the textbox and then click on apply filters
 
+Incase you dont see the desired results just refresh the page and try again
+
 
 
 ### `npm test`
