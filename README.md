@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+To install node_modules
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +17,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `How to Run`
+
+Choose any filter for a column then click on apply to its right
+Then click on apply filter
+You will see the result
+
+For sorting click on the heading of the column you will see the toggle button of asc and desc
+Adjust according to your needs
+Click on apply filters
+
+For searching type the text in the textbox and then click on apply filters
+
+
 
 ### `npm test`
 
